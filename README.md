@@ -34,8 +34,6 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VwYWExanI2cDBtajk0NjQyNG8zZnR0emN1cThhZWU4c3R5aXhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/czpet1H4pnyAE/giphy.gif"  />
-</div>
+
 
 ###
