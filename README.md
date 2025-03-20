@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Darren and I'm from Germany, nice to meet you!</p>
+<p align="center">My name is Darren and I'm from Germany, nice to meet you!<br><br>https://xdarren1979.github.io/Website-Demo/</p>
 
 ###
 
@@ -31,5 +31,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xDarren1979&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/xDarren1979/xDarren1979/output/snake.svg" alt="Snake animation" />
 
 ###
