@@ -11,9 +11,9 @@
 ###
 
 <p align="center">📚 I'm currently learning HTML / CSS / Javascript</p>
- <div style="text-align: center;">
-    <a href="https://xdarren1979.github.io/Website-Demo/" target="_blank">Website</a>
-</div>
+<p align="center">
+  <a href="https://xdarren1979.github.io/Website-Demo/" target="_blank">Website</a>
+</p>
 
 ###
 
