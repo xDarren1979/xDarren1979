@@ -12,7 +12,7 @@
 
 <p align="center">📚 I'm currently learning HTML / CSS / Javascript</p>
 <p align="center">
-  <a href="https://xdarren1979.github.io/Website-Demo/" target="_parent">Website</a>
+  <a href="https://xdarren1979.github.io/Website-Demo/" target="_blank">Website</a>
 </p>
 
 ###
