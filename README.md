@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Darren and I'm from Germany, nice to meet you!<br><br>https://xdarren1979.github.io/Website-Demo/</p>
+<p align="center">My name is Darren and I'm from Germany, nice to meet you!</p>
 
 ###
 
